@@ -1,51 +1,37 @@
----
-layout: default
-title: Home
----
+## Welcome to GitHub Pages
 
-{% assign index = true %}
-<div itemscope itemtype="http://schema.org/Blog">
-{% for post in paginator.posts %}
-    {% unless post.redirect %}
-    {% assign content = post.content %}
-        {% if post.categories.size > 0 %}
-            {% capture categories_content %} {% endcapture %}
-            {% for post_category in post.categories %}
-                {% for data_category in site.data.categories %}
-                    {% if data_category.slug == post_category %}
-                        {% assign category = data_category %}
-                    {% endif %}
-                {% endfor %}
-                {% if category %}
-                    {% capture categories_content_temp %}{{ categories_content }}<a class="label label-default" href="/category/{{ category.slug }}/">{{ category.name }}</a>{% if forloop.last == false %} &nbsp; {% endif %}{% endcapture %}
-                    {% assign categories_content = categories_content_temp %}
-                {% endif %}
-            {% endfor %}
-        {% else %}
-            {% assign categories_content = '' %}
-        {% endif %}
-        <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
-            {% include article.html %}
-        </article>
-    {% endunless %}
-{% endfor %}
-</div>
+You can use the [editor on GitHub](https://github.com/hvleifsson/Trial/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-<nav>
-	<ul class="pager">
-		{% if paginator.next_page %}
-		<li>
-			<a href="{{site.baseurl}}/page/{{ paginator.next_page }}">&laquo; Older Posts</a>
-		</li>
-		{% endif %}
-		{% if paginator.previous_page %}
-		<li>
-      {% if paginator.previous_page == 1 %}
-				<a href="{{site.baseurl}}/">Newer Posts &raquo; </a>
-      {% else %}
-				<a href="{{site.baseurl}}/page/{{paginator.previous_page}}">Newer Posts &raquo; </a>
-      {% endif %}
-		</li>
-    {% endif %}
-	</ul>
-</nav>
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hvleifsson/Trial/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
