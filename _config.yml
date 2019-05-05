@@ -4,12 +4,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   First description 
   <br><br>
   Second description 
+  <br><br> 
+  <a href="https://hvleifsson.github.io/3D-Printing">3D-Printing</a>   
   <br><br>
-  [3D-Printing(/3D-Printing)  
+  <a href="https://hvleifsson.github.io/about">About</a> 
   <br><br>
-  [About(/About)
-  <br><br>
-  [Contact(/Contact)  
+  <a href="https://hvleifsson.github.io/contact">Contact</a> 
   <br><br>
   <a href="https://www.linkedin.com/in/hvleifsson/">LinkedIn</a> 
 
