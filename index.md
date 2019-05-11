@@ -5,7 +5,8 @@
 ### Category Name 1 
 
 [Master Thesis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/printer_enclosure.jpg?raw=true"/>
+<img src="images/p 	manifold_single_transparent.png"/>
 
 https://lup.lub.lu.se/student-papers/search/publication/8915962
 
