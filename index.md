@@ -5,6 +5,12 @@
 ### Category Name 1 
 
 [Master Thesis](/sample_page)
+<p align="center">
+  <img width="460" height="300" src="images/printer_enclosure.jpg?raw=true">
+</p>
+<p align="center">
+  <img width="460" height="300" src="images/manifold_single_transparent.png">
+</p>
 <img src="images/printer_enclosure.jpg?raw=true"/>
 <img src="images/manifold_single_transparent.png"/>
 
