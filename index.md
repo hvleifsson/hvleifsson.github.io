@@ -6,13 +6,13 @@
 
 [Master Thesis](/sample_page)
 <p align="center">
-  <img width="460" height="300" src="images/printer_enclosure.jpg?raw=true">
+  <img width="1500" height="900" src="images/printer_enclosure.jpg?raw=true">
 </p>
 <p align="center">
-  src="images/manifold_single_transparent.png">
+  <img width="460" height="300" src="images/manifold_single_transparent.png">
 </p>
 
-
+Additive manufacturing and topology optimization of mining parts. 
 <a href="https://lup.lub.lu.se/student-papers/search/publication/8915962">https://lup.lub.lu.se/student-papers/search/publication/8915962</a>
 
 
