@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Master Thesis](/sample_page)
 <img src="manifold_single_transparent.png?raw=true"/>
 
 https://lup.lub.lu.se/student-papers/search/publication/8915962
