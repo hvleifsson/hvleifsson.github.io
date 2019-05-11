@@ -1,6 +1,6 @@
 ## hink3Dprint
 
-**Welcome to hink3Dprint** 
+Welcome to hink3Dprint
 
 ### 3D-Printing setup
 
