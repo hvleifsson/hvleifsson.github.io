@@ -9,7 +9,7 @@
   <img width="460" height="300" src="images/printer_enclosure.jpg?raw=true">
 </p>
 <p align="center">
-  <img width="460" height="300" src="images/manifold_single_transparent.png">
+  src="images/manifold_single_transparent.png">
 </p>
 
 
