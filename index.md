@@ -6,7 +6,7 @@
 
 [Master Thesis](/sample_page)
 <p align="center">
-  <img width="1500" height="900" src="images/printer_enclosure.jpg?raw=true">
+  <img height="480" src="images/printer_enclosure.jpg?raw=true">
 </p>
 <p align="center">
   <img width="460" height="300" src="images/manifold_single_transparent.png">
