@@ -6,7 +6,7 @@
 
 [Master Thesis](/sample_page)
 <img src="images/printer_enclosure.jpg?raw=true"/>
-<img src="images/p 	manifold_single_transparent.png"/>
+<img src="images/manifold_single_transparent.png"/>
 
 https://lup.lub.lu.se/student-papers/search/publication/8915962
 
