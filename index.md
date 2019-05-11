@@ -5,9 +5,10 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="manifold_single_transparent.png?raw=true"/>
 
-[Project 1 Title-TEST](/sample_page)
+https://lup.lub.lu.se/student-papers/search/publication/8915962
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 
