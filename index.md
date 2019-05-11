@@ -6,14 +6,14 @@
 
 [Master Thesis](/sample_page)
 <p align="center">
-  <img width="300" height="300" src="images/printer_enclosure.jpg?raw=true">
+  <img width="460" height="300" src="images/printer_enclosure.jpg?raw=true">
 </p>
 <p align="center">
-  <img width="300" height="300" src="images/manifold_single_transparent.png">
+  <img width="460" height="300" src="images/manifold_single_transparent.png">
 </p>
 
 
-<a href="https://lup.lub.lu.se/student-papers/search/publication/8915962">Thesis</a>
+<a href="https://lup.lub.lu.se/student-papers/search/publication/8915962">https://lup.lub.lu.se/student-papers/search/publication/8915962</a>
 
 
 ---
