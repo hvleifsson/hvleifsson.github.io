@@ -13,4 +13,8 @@ Additive manufacturing and topology optimization of mining parts.
 <a href="https://lup.lub.lu.se/student-papers/search/publication/8915962">https://lup.lub.lu.se/student-papers/search/publication/8915962</a>
 
 
+### 3D-Printing setup
 
+<p align="center">
+  <img height="480" src="images/printer_enclosure.jpg?raw=true">
+</p>
