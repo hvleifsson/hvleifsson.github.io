@@ -1,21 +1,21 @@
-<!## Portfolio
+<!--## Title
 
-<!---
-<!
-<!### Master Thesis
+<!-----
 
-<!Additive manufacturing and topology optimization of mining parts. 
+<!--### Master Thesis
 
-<!<p align="center">
-<!  <img width="460" height="300" src="images/manifold_single_transparent.png">
-<!</p>
+<!--Additive manufacturing and topology optimization of mining parts. 
 
-<!<a href="https://lup.lub.lu.se/student-papers/search/publication/8915962">https://lup.lub.lu.se/student-papers/search/publication/8915962</a>
+<!--<p align="center">
+  <img width="460" height="300" src="images/manifold_single_transparent.png">
+</p>
+
+<!--<a href="https://lup.lub.lu.se/student-papers/search/publication/8915962">https://lup.lub.lu.se/student-papers/search/publication/8915962</a>
 
 
-<!### 3D-Printing setup
+<!--### 3D-Printing setup
 
-<!<p align="center">
-<!  <img height="480" src="images/printer_enclosure.jpg?raw=true">
-<!</p>
+<!--<p align="center">
+  <img height="480" src="images/printer_enclosure.jpg?raw=true">
+</p>
 
