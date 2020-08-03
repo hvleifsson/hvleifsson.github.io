@@ -40,7 +40,7 @@ Additive manufacturing and topology optimization of mining parts.
 ### <a href="hvleifsson.github.io/articles/">Articles</a>
 
 ------------------------------------------------------------------------------------------------------------------------------------
-<em>Follow the link below to find educational videos on engineering software and tools.</em>
+<em>Follow the link below to find videos on engineering software and tools.</em>
 ### <a href="hvleifsson.github.io/articles/">Educationals</a>
 
 ------------------------------------------------------------------------------------------------------------------------------------
