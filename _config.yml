@@ -1,4 +1,6 @@
 title: Portfolio # your name (or website title) here
+<strong>Portfolio</strong>
+# Portfolio without hyperlink
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Henrik Leifsson
