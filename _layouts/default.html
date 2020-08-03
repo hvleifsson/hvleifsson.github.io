@@ -21,7 +21,7 @@
         -->
         
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" width="300" />
+          <img src="{{site.logo | relative_url}}" alt="Logo" width="100" /> <!---## Default width 500 -->
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
