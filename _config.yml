@@ -2,6 +2,7 @@ title: Portfolio # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Henrik Leifsson
+  <br>
   <a href="mailto:hvleifsson@gmail.com">hvleifsson@gmail.com</a>
 
 theme: jekyll-theme-minimal
