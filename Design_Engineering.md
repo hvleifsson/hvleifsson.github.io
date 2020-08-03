@@ -20,7 +20,6 @@ If you are in a project with end, you still want complete documentation but ther
 
 (Note that this is only the perception from the engineering and CAD side, there is a lot more to think about with PDM and ERP systems.) 
 
-----------------------------------------------
 You might ask why I have not written out any material or treatment on the drawing. 
 
 My opinion is this: 
