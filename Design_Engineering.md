@@ -3,13 +3,17 @@
 
 ### Manufacturing Drawing
 
-Let’s start with the manufacturing drawing, some GD&T. 
-Useful references
+Below is an example of a machined part. 
 
 
+Insert picture of geomerty that I drew myself, a coupling or machined part. 
 
-According to following standards: 
-PAOSKDPOASKD
+**References that could be useful:**
+ASME Y14.5 - Dimensioning and Tolerancing
+General tolerances, for example ISO 2768 or ISO 8062
+Handbook in mechanical engineering that you are familiar with
+Handbook in solid mechanics that you are familiar with
+Tables with common parts and design rules from suppliers
 
 
 Everything you do can be noted as a project. A production and assembly is simply one big project that is without end. A project with end is for example a facility, where you need some parts for that single project. 
@@ -20,24 +24,12 @@ If you are in a project with end, you still want complete documentation but ther
 
 (Note that this is only the perception from the engineering and CAD side, there is a lot more to think about with PDM and ERP systems.) 
 
-You might ask why I have not written out any material or treatment on the drawing. 
+You might ask why I have not written out any material or treatment on the drawing. This article I wrote will hopefully suffice 
 
 My opinion is this: 
 https://www.3dhubs.com/knowledge-base/how-prepare-technical-drawing-cnc-machining/#why
 
-If you are creating 
-If you are only creating 
-
-If you are to only create a couple of the product and have no need to document the full procedure for a manufacturing plant. The easiest way is to add these requirements to the drawing. 
-
-Why do I not have any 
-What is supposed to be the drawing? Material? You should deal with own manufactured articles as purchased articles. 
-
-The drawing on a purchased 
-
-In my opinion an engineering drawing’s main purpose is to communicate the geometry of the article. Material specification, surface treatment or 
-
-an engineering drawing should only communicate geometry of the article. 
 
 
-What is an article? 
+
+What is an article? Part number! (artikelnummer är inte samma mot engelskan!) 
