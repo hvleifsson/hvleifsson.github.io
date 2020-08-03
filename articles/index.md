@@ -3,6 +3,7 @@ layout: default
 ---
 
 <br> 
+# Articles
 
 ### <a href="https://hvleifsson.github.io/articles/what_on_drawing">What should be on a manufacturing drawing?</a>
 
