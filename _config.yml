@@ -1,7 +1,7 @@
 title: Portfoilio # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <a Henrik Leifsson</a> 
+  <br>Henrik Leifsson<br> 
 
 
 theme: jekyll-theme-minimal
