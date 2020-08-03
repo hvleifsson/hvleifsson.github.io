@@ -1,7 +1,3 @@
-<!---## Title
-
----
-
 ### Master Thesis
 
 Additive manufacturing and topology optimization of mining parts. 
@@ -18,5 +14,3 @@ Additive manufacturing and topology optimization of mining parts.
 <p align="center">
   <img height="480" src="images/printer_enclosure.jpg?raw=true">
 </p>
-
--->
