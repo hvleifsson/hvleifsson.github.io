@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <br> 
 <em>Follow the links for each section below to see respective parts of the portfolio.</em>
 
