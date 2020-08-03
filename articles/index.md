@@ -3,37 +3,16 @@ layout: default
 ---
 
 <br> 
-<em>Follow the links for each section below to see respective parts of the portfolio.</em>
 
-<!---##
-### Reshaping
+### <a href="https://hvleifsson.github.io/articles/what_on_drawing">What should be on a manufacturing drawing?</a>
 
-Reshaping is what I call rethinking through AM. 
-Additive manufacturing and topology optimization of mining parts. 
--->
-
-### <a href="https://hvleifsson.github.io/Design_Engineering">Design Engineering</a>
-
-### <a href="https://hvleifsson.github.io/Technical_Planning">Technical Planning</a>
-
-### <a href="https://hvleifsson.github.io/Project_Support">Project Support</a>
-
-### <a href="https://hvleifsson.github.io/Product_Visualization">Product Visualization</a>
-
-<!---##
-### Technical Writing
-
-### Technical Advisory
--->
+### <a href="https://hvleifsson.github.io/articles/part_numbers">Part numbers</a> 
 
 
-<!---##
-<p align="center">
-  <img width="460" height="300" src="images/manifold_single_transparent.png">
-</p>
+### <a href="https://hvleifsson.github.io/articles/bom_pdm_erp">BOM/PDM/ERP</a>
 
-<a href="https://lup.lub.lu.se/student-papers/search/publication/8915962">https://lup.lub.lu.se/student-papers/search/publication/8915962</a>
--->
+### <a href="https://hvleifsson.github.io/articles/eng_db">Engineering Databases</a>
+
 
 
 
