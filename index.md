@@ -12,13 +12,13 @@ Reshaping is what I call rethinking through AM.
 Additive manufacturing and topology optimization of mining parts. 
 -->
 
-### <a href="https://lup.lub.lu.se/student-papers/search/publication/8915962">Design Engineering</a>
+### <a href="https://hvleifsson.github.io/Design_Engineering">Design Engineering</a>
 
-### <a href="https://lup.lub.lu.se/student-papers/search/publication/8915962">Technical Planning</a>
+### <a href="https://hvleifsson.github.io/Technical_Planning">Technical Planning</a>
 
-### <a href="https://lup.lub.lu.se/student-papers/search/publication/8915962">Project Support</a>
+### <a href="https://hvleifsson.github.io/Project_Support">Project Support</a>
 
-### <a href="https://lup.lub.lu.se/student-papers/search/publication/8915962">Product Visualization</a>
+### <a href="https://hvleifsson.github.io/Product_Visualization">Product Visualization</a>
 
 <!---##
 ### Technical Writing
