@@ -1,25 +1,25 @@
-_Follow the links for each section below to see respective parts of the portfolio. _
+<em>Follow the links for each section below to see respective parts of the portfolio.</em>
 
+<!---##
 ### Reshaping
 
+Reshaping is what I call rethinking through AM. 
 Additive manufacturing and topology optimization of mining parts. 
+-->
 
-### Design Engineering
+### <a href="https://lup.lub.lu.se/student-papers/search/publication/8915962">Design Engineering</a>
 
-### Planning
+### <a href="https://lup.lub.lu.se/student-papers/search/publication/8915962">Technical Planning</a>
 
-### Project Support
+### <a href="https://lup.lub.lu.se/student-papers/search/publication/8915962">Project Support</a>
 
+### <a href="https://lup.lub.lu.se/student-papers/search/publication/8915962">Product Visualization</a>
 
-
-### Product Visualization
-
+<!---##
 ### Technical Writing
 
 ### Technical Advisory
-
-### 
-
+-->
 
 
 <!---##
