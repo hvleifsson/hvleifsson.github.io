@@ -23,6 +23,7 @@ If you are in a project with end, you still want complete documentation but ther
 You might ask why I have not written out any material or treatment on the drawing. 
 
 My opinion is this: 
+https://www.3dhubs.com/knowledge-base/how-prepare-technical-drawing-cnc-machining/#why
 
 If you are creating 
 If you are only creating 
