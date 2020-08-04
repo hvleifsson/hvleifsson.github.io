@@ -18,7 +18,6 @@ Additive manufacturing and topology optimization of mining parts.
 
 ### <a href="https://hvleifsson.github.io/Project_Support">Project Support</a>
 
-### <a href="https://hvleifsson.github.io/Product_Visualization">Product Visualization</a>
 
 <!---##
 ### Technical Writing
@@ -26,6 +25,9 @@ Additive manufacturing and topology optimization of mining parts.
 ### Technical Advisory
 -->
 
+------------------------------------------------------------------------------------------------------------------------------------
+<em>Follow the link below to find some of my thoughts in an article form.</em>
+### <a href="hvleifsson.github.io/articles/">Articles</a>
 
 <!---##
 <p align="center">
@@ -33,11 +35,9 @@ Additive manufacturing and topology optimization of mining parts.
 </p>
 
 <a href="https://lup.lub.lu.se/student-papers/search/publication/8915962">https://lup.lub.lu.se/student-papers/search/publication/8915962</a>
--->
 
-------------------------------------------------------------------------------------------------------------------------------------
-<em>Follow the link below to find some of my thoughts in an article form.</em>
-### <a href="hvleifsson.github.io/articles/">Articles</a>
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------------
 <em>Follow the link below to find videos on engineering software and tools.</em>
@@ -47,7 +47,7 @@ Additive manufacturing and topology optimization of mining parts.
 <em>Follow the link below to find useful engineering links and downloads.</em>
 ### <a href="hvleifsson.github.io/articles/">Useful links and downloads</a>
 
-
+-->
 
 
 
