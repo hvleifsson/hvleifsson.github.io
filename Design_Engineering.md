@@ -1,5 +1,6 @@
 <br> 
 # Design Engineering
+*Creating a solution to a problem and then communicate that solution understandably to all parties.*
 
 ### Manufacturing Drawing
 
