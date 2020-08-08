@@ -3,27 +3,23 @@
 
 # Design engineering or technical planning?
 
-Distances needed, placeent, maintenence distances. 
-
-Placing a valve is different from creating a valve. Molded block and machined vs. Reachable? 
-
-BOM contains amounts of finished products and other needed material. 
 
 
-Similar to design engineering but with some difference. 
-Time constraint should be higher than design engineer for example. 
+Design engineers and technical planners usually use different software. 
 
 
-Creating a solution to be manufactured or putting together an unique solution to be constructed. 
-
-Some differances so far: See the other article...
-
-|                   |                   Design Engineer                   |            Technical Planner            |
-|:-----------------:|:---------------------------------------------------:|:---------------------------------------:|
-|  Common CAD tool  |        Dimension-driven, Inventor for example       |   Geometry-driven, AutoCAD for example  |
-|  Common question  |       Manufacturable? Component strong enough?      | Constructable on site? Item reachable?  |
-|        Data       | Part number PMI (Product Manufacturing Information) |      TAG number Item specific data      |
 
 
-CAD tool reference article. 
-(Planner/design engineer roles positions usually need both these softwares and it becomes hard to revise. Read more about )
+
+
+
+|  | Design Engineer | Technical Planner |
+|:-------------------:|:----------------:|:----------------:|
+| CAD software | Inventor | AutoCAD |
+| Common question | Manufacturable? Component strong enough? | Constructable on site? Item reachable? |
+| Model | 3D | 2D (3D) |
+| Data | Part number PMI (Product Manufacturing Information) | TAG number Item specific data |
+
+See ### <a href="https://hvleifsson.github.io/articles/cad_diff_eng_plan">What's the difference between CAD software?</a> for an explaination of dimension-driven & geometry-driven CAD software. 
+
+
