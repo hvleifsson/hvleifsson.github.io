@@ -16,7 +16,7 @@ Time constraint should be higher than design engineer for example.
 
 Creating a solution to be manufactured or putting together an unique solution to be constructed. 
 
-Some differances so far: 
+Some differances so far: See the other article...
 
 |                   |                   Design Engineer                   |            Technical Planner            |
 |:-----------------:|:---------------------------------------------------:|:---------------------------------------:|
@@ -25,3 +25,5 @@ Some differances so far:
 |        Data       | Part number PMI (Product Manufacturing Information) |      TAG number Item specific data      |
 
 
+CAD tool reference article. 
+(Planner/design engineer roles positions usually need both these softwares and it becomes hard to revise. Read more about )
