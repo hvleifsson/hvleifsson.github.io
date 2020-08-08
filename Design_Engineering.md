@@ -1,6 +1,6 @@
 <br> 
 # Design Engineering
-*Creating a solution to be manufactured for a problem and then communicate that solution understandably to all parties. See article <a href="https://hvleifsson.github.io/articles/design_eng_or_tech_plan">Design engineering or technical planning?</a>**
+*Creating a solution to be manufactured for a problem and then communicate that solution understandably to all parties. See article <a href="https://hvleifsson.github.io/articles/design_eng_or_tech_plan">Design engineering or technical planning?</a>*
 
 ### Manufacturing Drawing
 
