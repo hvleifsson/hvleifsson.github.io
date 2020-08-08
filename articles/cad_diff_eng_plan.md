@@ -28,7 +28,7 @@ Common headaches using geometry-driven CAD software usually boils down to:
 Consider, for example, that a placement of a wall has moved 200mm in the facility. You need to move each .dwg that is affected by this change. Depending on your application and hardware this might be a simple task or it will require some time. Even small changes, that shouldn't require much replanning, might mean that you need to recreate many of those drawn lines.  
 Advice: Verify sound foundation information, write and apply a company CAD practises. Document, train and discuss often. Solve problems instead of maintaining them. 
 <br> 
-
+<br> 
 In summary see table below.  
 
 |  | Dimension-driven | Geometry-driven |
