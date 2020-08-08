@@ -17,6 +17,7 @@ Common headaches using dimension-driven CAD software usually boils down to:
 * How the products and the quantifying is communicated 
 
 Consider, for example, that you are going to model a slight version to an end product. Only a couple of parts shall be redesigned and changed. The time to finish this task vastly depends on how well the previous end product has been modeled and defined. Is there a skeleton so that you can just replace the parts and not redo the relationships? There might be various older and newer numbering systems or suppressed parts without information. Maybe there is no way to directly import or sync the quantifying to other company systems. 
+
 Advice: Use skeletons, write and apply a company CAD practises. Document, train and discuss often. Solve problems instead of maintaining them. 
 
 Generally you would use geometry-driven CAD software to place and plan the usage of end products. For example use AutoCAD to plan and place valves in a facilty. Generate drawings where the individual end products can be identified and assembled according to plan. 
@@ -25,6 +26,7 @@ Common headaches using geometry-driven CAD software usually boils down to:
 * Revising foundational changes
 
 Consider, for example, that a placement of a wall has moved 200mm in the facility. You need to move each .dwg that is affected by this change. Depending on your application and hardware this might be a simple task or it will require some time. Even small changes, that shouldn't require much replanning, might mean that you need to recreate many of those drawn lines.  
+
 Advice: Verify sound foundation information, write and apply a company CAD practises. Document, train and discuss often. Solve problems instead of maintaining them. 
 
 In summary see table below.  
@@ -34,9 +36,5 @@ In summary see table below.
 | CAD software | Inventor | AutoCAD |
 | Filename extension | .ipt .iam | .dwg |
 | Common purpose | Manufacture end products | Place and plan usage of end products |
-| Common question | Manufacturable? Component strong enough? | Constructable on site? Item reachable? |
 | Constraints | Local coordinates and relationships | Global coordinates and drawn lines |
 | Quantifying | Needed items to build end product | Amount of end products |
-| Model | 3D | 2D (3D) |
-| Data | Part number PMI (Product Manufacturing Information) | TAG number Item specific data |
-
