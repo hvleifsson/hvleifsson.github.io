@@ -7,7 +7,11 @@
 
 Design engineers and technical planners usually use different software. 
 
+More about purpose. Take valve as example again. 
+Project with end or without end? 
+Facility needs both. 
 
+What happens when this is the same person and shall work with both softwares? Both as a planner and as a design engineer? Usually it becomes a mess. 
 
 
 
