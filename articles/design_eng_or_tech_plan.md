@@ -22,8 +22,14 @@ What happens when this is the same person and shall work with both softwares? Bo
 | CAD software | Inventor | AutoCAD |
 | Common question | Manufacturable? Component strong enough? | Constructable on site? Item reachable? |
 | Model | 3D | 2D (3D) |
+| Natural method | Scientific | Holistic |
 | Data | Part number PMI (Product Manufacturing Information) | TAG number Item specific data |
 
 See <a href="https://hvleifsson.github.io/articles/cad_diff_eng_plan">What's the difference between CAD software?</a> for an explaination of dimension-driven & geometry-driven CAD software. 
 
+
+Revit. 
+https://www.linkedin.com/pulse/5-key-differences-between-autocad-revit-carole-dib
+
+In my opionon you should consider if you are doing planning or design engineering. When and how. Write manuals and software accordingly. 
 
