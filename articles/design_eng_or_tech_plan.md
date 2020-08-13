@@ -8,7 +8,7 @@ Technical planner put together a solution to be constructed for a problem and th
 
 Both solve problems but are slightly different. In this small article I wish to clarify some differences. You might have an engineering degree but do technical planning or vice versa. I think we should focus on discussing roles instead of formal education. 
 
-A simple traditional valve in a facilty will serve as example for this article. A design engineer created the molds and machining for the valve. A technical planner put the valve in the facility, made sure it was reachable or otherwise as good as possible with whatever resources was available. If there was need for an unique support to uphold the piping and valve, both a technical planner and design engineer is needed. This could, and usually is, the same person. 
+A simple traditional valve in a facilty will serve as example for this article. A design engineer created the molds and machining for the valve. A technical planner put the valve in the facility, made sure it was reachable or otherwise as good as possible with the resources available. If there was need for an unique support to uphold the piping and valve, both a technical planner and design engineer is needed. This could, and usually is, the same person. 
 
 Let us continue to differentiate by looking at some common tools
 Let's look at some different tools
