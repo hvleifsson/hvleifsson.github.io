@@ -5,7 +5,7 @@ layout: default
 <br> 
 # Articles
 
-### <a href="https://hvleifsson.github.io/articles/design_eng_or_tech_plan">[To be written] Design engineering or technical planning?</a>
+### <a href="https://hvleifsson.github.io/articles/design_eng_or_tech_plan">Design engineering or technical planning?</a>
 
 ### <a href="https://hvleifsson.github.io/articles/what_on_drawing">What should be on a manufacturing drawing?</a>
 
