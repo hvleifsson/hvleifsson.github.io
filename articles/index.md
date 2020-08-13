@@ -13,7 +13,9 @@ layout: default
 
 ### <a href="https://hvleifsson.github.io/articles/part_numbers_BOM_PDM_ERP">[To be written] Part numbers and BOM/PDM/ERP</a> 
 
+### <a href="https://hvleifsson.github.io/articles/consulting">[To be written] Consulting (incl contracts, hourly or project based, manager or owner)</a> 
 
+### <a href="https://hvleifsson.github.io/articles/prj_communicate.md">[To be written] Projects (types of projects and software etc.)</a> 
 
 
 
