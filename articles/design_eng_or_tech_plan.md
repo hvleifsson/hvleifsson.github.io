@@ -22,7 +22,7 @@ Design engineers and technical planners usually use different software, have dif
 
 What happens when this is the same person and shall work with both softwares? Both as a planner and as a design engineer? 
 
-Problems when roles get combined: 
+Problems when roles get combined:
 * Multiple software need
 * Lack of structure, everyone doing things differently
 * No feedback, what went well?
