@@ -8,7 +8,7 @@ Below is an example of a machined part.
 
 
 Insert picture of geomerty that I drew myself, a coupling or machined part. 
-
+K-Factor for tube bending
 
 
 For my thoughts around useful references when producing manufacturing drawings see <a href="https://hvleifsson.github.io/articles/drw_usefuls">here.</a> 
