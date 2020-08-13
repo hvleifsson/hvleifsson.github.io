@@ -26,3 +26,6 @@ For inspiration or further read.
 *ASME Y14.35 (Drawing Revisions of Engineering Drawings and Associated Documents)
 *ASME Y14.38 (Abbreviations and Acronyms on Drawings and Related Documents)
 *ASME Y14.41 (Digital Product Definition Drawing Practices)
+
+Downloading McMaster-Carr Parts Files
+Standard parts cad
