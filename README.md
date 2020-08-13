@@ -1,4 +1,4 @@
 
-# href="hvleifsson.github.io">hvleifsson.github.io</a>*
+hvleifsson.github.io">hvleifsson.github.io
 
 Copyright Henrik Leifsson
