@@ -72,3 +72,21 @@ Additive manufacturing and topology optimization of mining parts.
 <br> 
  
 <br> 
+
+<br> 
+ 
+<br> 
+ 
+<br> 
+ 
+<br> 
+ 
+<br> 
+ 
+<br> 
+ 
+<br> 
+ 
+<br> 
+ 
+<br> 
