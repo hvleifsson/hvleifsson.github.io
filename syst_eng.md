@@ -1,9 +1,11 @@
 <br> 
 # System Engineering
 
+*Putting together a system as a solution to a problem and then design, communicate, implement, manage and finally integrate the system into an organization. *
 
 ---
-*Creating a solution to be manufactured for a problem and then communicate that solution understandably to all parties. See article <a href="https://hvleifsson.github.io/articles/design_eng_or_tech_plan">Design engineering or technical planning?</a>*
+
+
 
 ### Manufacturing Drawing
 
