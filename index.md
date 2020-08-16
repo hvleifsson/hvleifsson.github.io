@@ -16,6 +16,8 @@ Additive manufacturing and topology optimization of mining parts.
 
 ### <a href="https://hvleifsson.github.io/Technical_Planning">[To be examplified] Technical Planning</a>
 
+### <a href="https://hvleifsson.github.io/syst_eng">[To be examplified] System Engineering</a>
+
 ### <a href="https://hvleifsson.github.io/Project_Support">[To be examplified] Project Support</a>
 
 
