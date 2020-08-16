@@ -1,7 +1,11 @@
 <br> 
 # System Engineering
 
-*Putting together a system as a solution to a problem and then design, communicate, implement, manage and finally integrate the system into an organization. *
+
+*Putting together a system as a solution to a problem and then design, communicate, implement, manage and integrate the system into an organization. *
+
+
+
 
 ---
 
