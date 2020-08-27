@@ -18,7 +18,7 @@ Production BOM
 
 System for blocks/STEP files or other automatic administration setups. 
 
-
+(((Part number hänvisa till extra artikel)))
 
 Problems of integration into organization. 
 Risky
