@@ -18,5 +18,5 @@ If you are in a project with end, you still want complete documentation but ther
 
 |  | Project without end | Project with end |
 |:-------------------:|:----------------:|:----------------:|
-| PMI on manufacturing drawing | Document seperate from drawing recommended | Acceptable on drawing |
-
+| PMI on manufacturing drawing? | Documents seperate from drawing recommended | Acceptable on drawing |
+| Part number? | Yes | Depends on size of project |
