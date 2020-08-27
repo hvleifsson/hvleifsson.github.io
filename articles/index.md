@@ -15,7 +15,7 @@ layout: default
 
 ### <a href="https://hvleifsson.github.io/articles/consulting">[To be written] Consulting (incl contracts, hourly or project based, manager or owner)</a> 
 
-### <a href="https://hvleifsson.github.io/articles/prj_communicate.md">[To be written] Projects (types of projects and software etc.)</a> 
+### <a href="https://hvleifsson.github.io/articles/prj_communicate">[To be written] Projects (types of projects and software etc.)</a> 
 
 
 
