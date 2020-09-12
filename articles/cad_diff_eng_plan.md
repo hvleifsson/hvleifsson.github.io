@@ -6,7 +6,7 @@ I categorize CAD software in dimension-driven or coordinate-driven. CAD software
 
 Example of CAD software can be seen in below table. 
 
-| Relations | Dimension-driven | Coordinate-driven | 
+|  | Dimension-driven relations | Coordinate-driven relations | 
 |:-------------------:|:----------------:|:----------------:|
 | Example CAD software | Inventor | AutoCAD |
 
@@ -32,7 +32,7 @@ Advice: Verify sound foundation information, write and apply a company CAD pract
 In summary see table below. <br>
 
 
-| Relations | Dimension-driven | Coordinate-driven | 
+|  | Dimension-driven relations | Coordinate-driven relations |  
 |:-------------------:|:----------------:|:----------------:|
 | Example CAD software | Inventor | AutoCAD |
 | Filename extension | .ipt .iam | .dwg |
