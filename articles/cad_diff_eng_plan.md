@@ -33,7 +33,7 @@ Advice: Verify sound foundation information, write and apply a company CAD pract
 In summary see table below.  
 | Relations | Dimension-driven | Coordinate-driven | 
 |:-------------------:|:----------------:|:----------------:|
-| Example CAD software | Inventor | AutoCAD | 
+| Example CAD software | Inventor | AutoCAD |
 | Filename extension | .ipt .iam | .dwg |
 | Common purpose | Manufacture end products | Place and plan usage of end products | Direct-model geometry
 | Constraints | Local coordinates and mates | Global coordinates and drawn lines |
