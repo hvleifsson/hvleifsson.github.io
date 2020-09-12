@@ -2,6 +2,8 @@
 ### <a href="https://hvleifsson.github.io/articles">Back to articles</a>
 
 # What's the difference between CAD software?
+I categorize CAD software in dimension-driven or coordinate-driven. CAD software is used to generate geometry and vary in how they define its relations with other geometries. Some CAD softwares are used for creating a geometry and then render it. Some CAD softwares are used to create geometry, make manufacuring drawings and define relations. Some CAD softwares are used to create layouts, buildings and all types of drawings. I'll focus on CAD softwares with mechanical purposes. In this article I'll explain some relational differences which hopefully could be useful to consider. 
+
 Example of CAD software can be seen in below table. 
 
 | Relations | Dimension-driven | Coordinate-driven | 
@@ -28,6 +30,7 @@ Advice: Verify sound foundation information, write and apply a company CAD pract
 <br> 
  
 In summary see table below. <br>
+
 | Relations | Dimension-driven | Coordinate-driven | 
 |:-------------------:|:----------------:|:----------------:|
 | Example CAD software | Inventor | AutoCAD |
