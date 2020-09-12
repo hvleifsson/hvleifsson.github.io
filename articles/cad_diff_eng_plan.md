@@ -32,6 +32,7 @@ Advice: Verify sound foundation information, write and apply a company CAD pract
 <br> 
 In summary see table below. 
 <br> 
+<br> 
 | Relations | Dimension-driven | Coordinate-driven | 
 |:-------------------:|:----------------:|:----------------:|
 | Example CAD software | Inventor | AutoCAD |
