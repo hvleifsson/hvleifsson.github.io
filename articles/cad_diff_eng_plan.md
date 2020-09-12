@@ -30,7 +30,7 @@ Consider, for example, that a placement of a wall has moved 200mm in the facilit
 Advice: Verify sound foundation information, write and apply a company CAD practises. Document, train and discuss often. Solve problems instead of maintaining them. 
 <br> 
  
-In summary see table below. 
+In summary see table below. <br>
 | Relations | Dimension-driven | Coordinate-driven | 
 |:-------------------:|:----------------:|:----------------:|
 | Example CAD software | Inventor | AutoCAD |
@@ -38,8 +38,4 @@ In summary see table below.
 | Common purpose | Manufacture end products | Place and plan usage of end products | Direct-model geometry
 | Constraints | Local coordinates and mates | Global coordinates and drawn lines |
 | Quantifying | Needed items to build end product | Amount of end products |
-<br> 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
