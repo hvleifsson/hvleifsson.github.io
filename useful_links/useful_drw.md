@@ -1,5 +1,5 @@
 <br> 
-### <a href="hvleifsson.github.io/useful_links/">Back to useful links & references</a>
+### <a href="https://hvleifsson.github.io/hvleifsson.github.io/useful_links/">Back to useful links & references</a>
 
 # Manufacturing drawing useful links & references
 
