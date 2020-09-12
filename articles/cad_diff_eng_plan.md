@@ -18,12 +18,9 @@ Common headaches using dimension-driven CAD software usually boils down to:
 * How the products and the quantifying is communicated 
 
 Consider, for example, that you are going to model a slight version to an end product. Only a couple of parts shall be redesigned and changed. The time to finish this task vastly depends on how well the previous end product has been modeled and defined. Is there a skeleton so that you can just replace the parts and not redo the relationships? There might be various older and newer numbering systems or suppressed parts without information. Maybe there is no way to directly import or sync the quantifying to other company systems. 
-<br> 
+
 Advice: Use skeletons, write and apply a company CAD practises. Document, train and discuss often. Solve problems instead of maintaining them. 
-In summary see table below. 
-| Relations | Dimension-driven | Coordinate-driven | 
-|:-------------------:|:----------------:|:----------------:|
-| Example CAD software | Inventor | AutoCAD |
+<br> 
 Generally you would use coordinate-driven CAD software to place and plan the usage of end products. For example use AutoCAD to plan and place valves in a facilty. Generate drawings where the individual end products can be identified and assembled according to plan. 
 Common headaches using coordinate-driven CAD software usually boils down to:
 * How the .dwg files are organized
@@ -33,17 +30,8 @@ Consider, for example, that a placement of a wall has moved 200mm in the facilit
 Advice: Verify sound foundation information, write and apply a company CAD practises. Document, train and discuss often. Solve problems instead of maintaining them. 
 <br> 
 <br> 
+ 
 In summary see table below. 
-| Relations | Dimension-driven | Coordinate-driven | 
-|:-------------------:|:----------------:|:----------------:|
-| Example CAD software | Inventor | AutoCAD |
-
-
-
-
-
-<br> 
-<br> 
 | Relations | Dimension-driven | Coordinate-driven | 
 |:-------------------:|:----------------:|:----------------:|
 | Example CAD software | Inventor | AutoCAD |
