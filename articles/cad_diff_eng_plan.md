@@ -30,7 +30,8 @@ Consider, for example, that a placement of a wall has moved 200mm in the facilit
 Advice: Verify sound foundation information, write and apply a company CAD practises. Document, train and discuss often. Solve problems instead of maintaining them. 
 <br> 
 <br> 
-In summary see table below.  
+In summary see table below. 
+<br> 
 | Relations | Dimension-driven | Coordinate-driven | 
 |:-------------------:|:----------------:|:----------------:|
 | Example CAD software | Inventor | AutoCAD |
