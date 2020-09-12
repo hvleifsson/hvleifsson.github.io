@@ -7,7 +7,7 @@ I categorize CAD software in dimension-driven or geometry-driven. In this articl
 
 Example of CAD software can be seen in below table. 
 
-|  | Dimension-driven | Geometry-driven |
+|  | Dimension-driven | Coordinate-driven |
 |:-------------------:|:----------------:|:----------------:|
 | CAD software | Inventor | AutoCAD |
 
@@ -31,7 +31,7 @@ Advice: Verify sound foundation information, write and apply a company CAD pract
 <br> 
 In summary see table below.  
 
-|  | Dimension-driven | Geometry-driven |
+|  | Dimension-driven | Coordinate-driven |
 |:-------------------:|:----------------:|:----------------:|
 | CAD software | Inventor | AutoCAD |
 | Filename extension | .ipt .iam | .dwg |
