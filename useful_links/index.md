@@ -5,7 +5,7 @@ layout: default
 <br> 
 # Useful links
 
-### <a href=" hvleifsson.github.io/useful_links/useful_drw">Manufacturing drawing links & references</a>
+### <a href="https://hvleifsson.github.io/hvleifsson.github.io/useful_links/useful_drw">Manufacturing drawing links & references</a>
 
 
 
