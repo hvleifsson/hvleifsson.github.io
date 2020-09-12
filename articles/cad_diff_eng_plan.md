@@ -38,3 +38,8 @@ In summary see table below.
 | Common purpose | Manufacture end products | Place and plan usage of end products | Direct-model geometry
 | Constraints | Local coordinates and mates | Global coordinates and drawn lines |
 | Quantifying | Needed items to build end product | Amount of end products |
+<br> 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
