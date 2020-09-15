@@ -9,5 +9,4 @@ System engineering is an endeavour that I categorize as more holistic, experienc
 System engineering is critical for the company but dangerous company political grounds. Easy to step on someone's toes. The hardest part of integrating a new system into an organization is managing people before, after and during the transition.
 
 See articles: 
-
 ### <a href="https://hvleifsson.github.io/articles/syseng_part_numbers_BOM_PDM_ERP">[System Engineering] Bill Of Material (BOM)</a> 
