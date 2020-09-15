@@ -1,6 +1,8 @@
 <br> 
 # System Engineering
+
 *Putting together a system as a solution to a problem and then design, communicate, implement, manage and integrate the system into an organization.*
+
 
 System engineering is an endeavour that I categorize as more holistic, experience based and a project without end. It runs as long as the company runs. System engineering is applicable both for projects with end and without end. All software and interactions are analysed and used for improvement. 
 
