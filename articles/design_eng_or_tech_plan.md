@@ -17,7 +17,7 @@ Design engineers and technical planners usually use different software, have dif
 | CAD software | Inventor | AutoCAD |
 | Common question | Manufacturable? Component strong enough? | Constructable on site? Item reachable? |
 | Model | 3D | 2D (3D) |
-| Natural method | Scientific | Holistic |
+| Natural method | Scientific & experience | Holistic & experience |
 | Data | Part number PMI (Product Manufacturing Information) | TAG number Item specific data |
 
 What happens when this is the same person and shall work with both softwares? Both as a planner and as a design engineer? 
