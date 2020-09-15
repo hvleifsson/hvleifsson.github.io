@@ -4,7 +4,9 @@
 # Communication in projects
 
 
+Death by Excel. 
 
+Managing -> Building information systems. 
 
 
 What does the team look like? 
