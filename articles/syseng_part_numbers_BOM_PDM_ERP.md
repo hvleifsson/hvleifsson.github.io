@@ -1,7 +1,7 @@
 <br> 
 ### <a href="https://hvleifsson.github.io/articles">Back to articles</a>
 
-# [System Engineering] Bill Of Material?
+### [System Engineering] Bill Of Material?
 
 Everything starts after engineers have generated a Bill Of Material, BOM. A BOM is a database that lists all components that make up a specific product. When we say BOM, we usually mean Engineering BOM, EBOM. After EBOM is complete, everyone else's work can properly begin. In this article I’ll explain the differentiations I make. 
 
@@ -15,7 +15,7 @@ MBOM: Manufacturing BOM (EBOM+Manufacturing part numbers) [Everything needed to 
 ABOM: Assembly BOM (EBOM+Assembly part numbers) [Everything needed to assemble the end product. Packaging, pallets, grease, time, instructions, manuals etc. ]
 SBOM: Service BOM (Subset of EBOM+Service part numbers) [Replacement parts, repair instructions etc.]
 
-*Projects without end:*
+# Projects without end:
 These types of project are usually finished after generating EBOM. Finishing means for example listing your discipline EBOM for the building. 
 
 
